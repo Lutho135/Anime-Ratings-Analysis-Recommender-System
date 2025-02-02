@@ -28,3 +28,11 @@ rating : rating out of 10 this user has assigned (-1 if the user watched it but 
 
 
 # Importing Libraries
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+import warnings
+warnings.filterwarnings('ignore')
