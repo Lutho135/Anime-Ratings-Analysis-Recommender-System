@@ -1,6 +1,7 @@
 ## ⛩️Anime Ratings 〽️Analysis & 🤖Recommender System
 
-![image](https://github.com/user-attachments/assets/f3d304b2-3fe3-4571-9c6a-bdaea32ed895)
+![image](https://github.com/user-attachments/assets/d563cbb7-6fac-43ca-ae3f-2575cefde4df)
+
 
 Trello: https://trello.com/invite/b/678feaa484f8accb36ff7726/ATTI2d03148c835cac678e9cab516919cc0c62AE427D/unsupervised-learning-project
 
