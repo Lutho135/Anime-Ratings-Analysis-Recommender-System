@@ -12,34 +12,3 @@ Every streaming content has its own viewers and each content has its rating. Vie
 About the Dataset
 This dataset contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating. This dataset is a compilation of those ratings.
 
-anime.csv
-anime_id: MyAnimeList.net's unique ID identifying an anime.
-
-name: Full name of the anime.
-
-genre: Comma-separated list of genres for this anime.
-
-type: Movie, TV, OVA, etc.
-
-episodes: Number of episodes in this show. (1 if it's a movie).
-
-rating: Average rating out of 10 for this anime.
-
-members: Number of community members that are in this anime's "group".
-
-rating.csv
-user_id: Non-identifiable randomly generated user ID.
-
-anime_id: The anime that this user has rated.
-
-rating: Rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating).
-
-Importing Libraries
-python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import warnings
-
-warnings.filterwarnings('ignore')
