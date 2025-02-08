@@ -1,6 +1,6 @@
 ## ⛩️Anime Ratings 〽️Analysis & 🤖Recommender System
 
-blob:https://photos.onedrive.com/ff343d35-4489-4303-a4e3-fdc284a5bfa9
+![my image]blob:https://photos.onedrive.com/ff343d35-4489-4303-a4e3-fdc284a5bfa9
 
 
 
