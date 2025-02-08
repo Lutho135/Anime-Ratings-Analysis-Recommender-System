@@ -1,6 +1,6 @@
 ## ⛩️Anime Ratings 〽️Analysis & 🤖Recommender System
 
-[![Anime Ratings Analysis & Recommender System](https://github.com/yourusername/yourrepository/blob/main/path/to/InCollage_20250203_194436730.jpg)](https://1drv.ms/i/c/bf014ee9bdde2e8e/EZMUgnjr2ZRIgZrpP9oIbm0BKC2dmw1G_yKGroSUzqBe5g?e=4LT1sm)
+blob:https://photos.onedrive.com/ff343d35-4489-4303-a4e3-fdc284a5bfa9
 
 
 
