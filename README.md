@@ -1,4 +1,5 @@
-## ⛩️Anime Ratings 〽️Analysis & 🤖Recommender System[[
+## ⛩️Anime Ratings 〽️Analysis & 🤖Recommender System
+[[
 ![Uploading image.png…]()
 
 
