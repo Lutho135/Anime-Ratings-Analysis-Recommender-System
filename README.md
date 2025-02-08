@@ -1,6 +1,6 @@
 ## ⛩️Anime Ratings 〽️Analysis & 🤖Recommender System
 
-![My image]![InCollage_20250203_194436730.jpg](attachment:44d750db-2d56-4bbb-ad44-6cec3feb75fc.jpg)
+![InCollage_20250203_194436730.jpg](attachment:44d750db-2d56-4bbb-ad44-6cec3feb75fc.jpg)
 
 
 
