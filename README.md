@@ -1,8 +1,5 @@
-## ⛩️Anime Ratings 〽️Analysis & 🤖Recommender System
-[[
-![Anime Ratings Analysis & Recommender System](https://github.com/Lutho135/Anime-Ratings-Analysis-Recommender-System/blob/main/path/to/your/image.jpg)](https://www.bing.com/images/search?view=detailV2&ccid=ErfTselF&id=6311EC843F71AFB33143677317C55D29F3DE1D0D&thid=OIP.ErfTselFpyGTbFn-ZHVibQHaEu&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp5306618.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12b7d3b1e945a721936c59fe6475626d%3frik%3dDR3e8yldxRdzZw%26pid%3dImgRaw%26r%3d0&exph=850&expw=1332&q=anime+pictures+boy+and+girl+collage+of+6&simid=608034359298891349&FORM=IRPRST&ck=71C062AD039D2F6E54C2170A97C337D9&selectedIndex=70&itb=0)](https://www.bing.com/images/search?view=detailV2&ccid=ErfTselF&id=6311EC843F71AFB33143677317C55D29F3DE1D0D&thid=OIP.ErfTselFpyGTbFn-ZHVibQHaEu&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp5306618.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12b7d3b1e945a721936c59fe6475626d%3frik%3dDR3e8yldxRdzZw%26pid%3dImgRaw%26r%3d0&exph=850&expw=1332&q=anime+pictures+boy+and+girl+collage+of+6&simid=608034359298891349&FORM=IRPRST&ck=71C062AD039D2F6E54C2170A97C337D9&selectedIndex=70&itb=0)
-
-
+## ⛩️Anime Ratings 〽️Analysis & 🤖Recommender System[[
+https://www.bing.com/images/search?view=detailV2&ccid=ErfTselF&id=6311EC843F71AFB33143677317C55D29F3DE1D0D&thid=OIP.ErfTselFpyGTbFn-ZHVibQHaEu&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp5306618.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12b7d3b1e945a721936c59fe6475626d%3frik%3dDR3e8yldxRdzZw%26pid%3dImgRaw%26r%3d0&exph=850&expw=1332&q=anime+pictures+boy+and+girl+collage+of+6&simid=608034359298891349&FORM=IRPRST&ck=71C062AD039D2F6E54C2170A97C337D9&selectedIndex=70&itb=0
 
 
 
