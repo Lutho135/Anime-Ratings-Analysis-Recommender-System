@@ -58,7 +58,7 @@ Data Visualization: plotly, seaborn
 Deployment: streamlit, flask (optional)
 
 📂 Project Structure
-Copy
+
 anime-recommender-system/
 ├── data/                    # Dataset files
 │   ├── anime.csv            # Anime metadata
@@ -72,18 +72,17 @@ anime-recommender-system/
 │   ├── recommender.py       # Recommender system implementation
 ├── README.md                # Project documentation
 ├── requirements.txt         # Python dependencies
+
 🚀 How to Use
 Clone the Repository:
 
-bash
-Copy
 git clone https://github.com/your-username/anime-recommender-system.git
 cd anime-recommender-system
+
 Install Dependencies:
 
-bash
-Copy
 pip install -r requirements.txt
+
 Run the Analysis:
 
 Open the Jupyter notebooks in the notebooks/ directory to explore the data and build models.
