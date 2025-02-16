@@ -1,7 +1,7 @@
 ⛩️ Anime Ratings 〽️ Analysis & 🤖 Recommender System
 Project Banner
 
-Trello Board: Project Management
+Trello Board: https://trello.com/invite/b/678feaa484f8accb36ff7726/ATTI2d03148c835cac678e9cab516919cc0c62AE427D/unsupervised-learning-project
 
 📜 Overview
 Streaming platforms host a vast library of anime titles, each with its own audience and ratings. However, viewers often struggle to find content they enjoy, spending hours scrolling through thousands of titles. To address this, businesses need to provide personalized recommendations that align with viewers' preferences. This project aims to analyze anime ratings and build a recommender system to enhance user experience, increase engagement, and boost revenue for streaming platforms.
