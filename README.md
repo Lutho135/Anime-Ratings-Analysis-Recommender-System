@@ -138,10 +138,15 @@ For questions or feedback, feel free to reach out:
 
 Your Name: Your Email
 Lutho Ntsepe             Luthon@nedbank.co.za
+
 Thabiso Nyokolodi        Thabisony@nedbank.co.za
+
 Richard Marais           RichardMar@nedbank.co.za
+
 Amukelani Khosa          Amukelani.khosa1@fnb.co.za
+
 Susheila Naick           Susheilan@nedbank.co.za
+
 Lizaan Botha             Lizaanb@nedbank.co.za
 
 
