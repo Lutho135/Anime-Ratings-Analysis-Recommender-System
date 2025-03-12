@@ -136,7 +136,7 @@ Inspired by the need to improve user experience on streaming platforms.
 📧 Contact
 For questions or feedback, feel free to reach out:
 
-Your Name: Your Email
+Your Name:               Your Email:
 Lutho Ntsepe             Luthon@nedbank.co.za
 
 Thabiso Nyokolodi        Thabisony@nedbank.co.za
